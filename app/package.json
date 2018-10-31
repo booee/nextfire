@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "description": "An example of using Next.js with Firebase hosting",
   "dependencies": {
-    "next": "^3.2.2",
-    "react": "^15.6.2",
-    "react-dom": "^15.6.2"
+    "next": "^7.0.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
   },
   "scripts": {
     "dev": "next",
